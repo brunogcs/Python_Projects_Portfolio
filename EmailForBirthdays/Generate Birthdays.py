@@ -31,4 +31,4 @@ num_records = 10
 # Generate random data and write to the CSV file
 generate_random_data(num_records)
 
-print(f'{num_records + 1} registros gerados com sucesso em aniversariantes.csv.')
+print(f'{num_records + 1} records successfully generated in aniversariantes.csv.')

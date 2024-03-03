@@ -1,4 +1,4 @@
-# Generating Birthday Data and Sending Birthday Emails via Email
+# Generating Birthday Data and Sending Birthday Emails
 
 This is a small Python script that generates random birthday data and writes it to a CSV file named `aniversariantes.csv`. It utilizes the `Faker` library to create fictional names, email addresses, birthdates, and ages.
 
